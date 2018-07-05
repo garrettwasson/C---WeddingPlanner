@@ -1,0 +1,11 @@
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\WeddingPlanner\bin\Debug\netcoreapp2.0\WeddingPlanner.deps.json
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\WeddingPlanner\bin\Debug\netcoreapp2.0\WeddingPlanner.runtimeconfig.json
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\WeddingPlanner\bin\Debug\netcoreapp2.0\WeddingPlanner.runtimeconfig.dev.json
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\WeddingPlanner\bin\Debug\netcoreapp2.0\WeddingPlanner.dll
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\WeddingPlanner\bin\Debug\netcoreapp2.0\WeddingPlanner.pdb
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\WeddingPlanner\obj\Debug\netcoreapp2.0\WeddingPlanner.csproj.CoreCompileInputs.cache
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\WeddingPlanner\obj\Debug\netcoreapp2.0\WeddingPlanner.AssemblyInfoInputs.cache
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\WeddingPlanner\obj\Debug\netcoreapp2.0\WeddingPlanner.AssemblyInfo.cs
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\WeddingPlanner\obj\Debug\netcoreapp2.0\WeddingPlanner.dll
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\WeddingPlanner\obj\Debug\netcoreapp2.0\WeddingPlanner.pdb
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\WeddingPlanner\obj\Debug\netcoreapp2.0\WeddingPlanner.csprojResolveAssemblyReference.cache
