@@ -26,11 +26,11 @@
             }
             @if(w.Guests.Where(g => g.user_id == Model.User.user_id).SingleOrDefault() == null && @w.user_id != @Model.User.user_id)
             {
-                <td><a href="/weddings/@w.wedding_id/RSVP">RSVP</a></td>
+                <td><a href="/weddings/@w.wedding_id/rsvp">RSVP</a></td>
             }
             else if(w.Guests.Where(g => g.user_id == Model.User.user_id).SingleOrDefault() != null && @w.user_id != @Model.User.user_id)
             {
-                <td><a href="/weddings/@w.wedding_id/UnRSVP">Un-RSVP</a></td>
+                <td><a href="/weddings/@w.wedding_id/unrsvp">Un-RSVP</a></td>
             }
         </tr>
         }

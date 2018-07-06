@@ -59,7 +59,7 @@ namespace WeddingPlanner.Controllers
             }
             return View(newWedding);
         }
-        [HttpPost]
+        [HttpGet("weddings/{id}/rsvp")]
         public IActionResult RSVP(int id)
         {
             if(ActiveUser == null)
@@ -73,7 +73,7 @@ namespace WeddingPlanner.Controllers
             _context.SaveChanges();
             return RedirectToAction("Index");
         }
-        [HttpPost]
+        [HttpGet("weddings/{id}/unrsvp")]
         public IActionResult UnRSVP(int id)
         {
             if(ActiveUser == null)
@@ -91,6 +91,7 @@ namespace WeddingPlanner.Controllers
                return RedirectToAction("Index");
             return View(_context.weddings.Include(w => w.Guests).ThenInclude(g => g.Guest).Where(w => w.wedding_id == id).SingleOrDefault());
         }
+        //Attr Routing
         [HttpGet("weddings/{id}/delete")]
         public IActionResult Delete(int id)
         {
